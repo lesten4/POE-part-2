@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\Cyber\Cyber\bin\Debug\Cyber.exe.config
+C:\Users\Student\source\repos\Cyber\Cyber\bin\Debug\Cyber.exe
+C:\Users\Student\source\repos\Cyber\Cyber\bin\Debug\Cyber.pdb
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.rbtChat.resources
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.Properties.Resources.resources
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.exe
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.pdb
+C:\Users\Student\source\repos\Cyber\Cyber\obj\Debug\Cyber.exe.config

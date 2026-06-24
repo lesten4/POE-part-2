@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\bin\Debug\net8.0-windows\frmTaskAssistant.cs.exe
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\bin\Debug\net8.0-windows\frmTaskAssistant.cs.deps.json
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\bin\Debug\net8.0-windows\frmTaskAssistant.cs.runtimeconfig.json
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\bin\Debug\net8.0-windows\frmTaskAssistant.cs.dll
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\bin\Debug\net8.0-windows\frmTaskAssistant.cs.pdb
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.Form1.resources
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.AssemblyInfo.cs
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.dll
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\refint\frmTaskAssistant.cs.dll
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.pdb
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\frmTaskAssistant.cs.genruntimeconfig.cache
+C:\Users\Student\source\repos\frmTaskAssistant.cs\frmTaskAssistant.cs\obj\Debug\net8.0-windows\ref\frmTaskAssistant.cs.dll
